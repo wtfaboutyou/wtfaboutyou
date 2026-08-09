@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a network engineer who has an interest in the field of operating systems and system administration, also interested in OSINT and Cisco
+- I am a Junior Network Engineer who has an interest in the field of operating systems and system administration, also interested in OSINT and Cisco
 
 
 ## 📊 GitHub Stats & Trophies
